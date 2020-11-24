@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://aoniejin.github.io/sitemap.xml
